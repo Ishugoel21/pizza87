@@ -3,15 +3,6 @@
   publish = "public"
   functions = "netlify/functions"
 
-[dev]
-  command = "npm run develop"
-  port = 1337
-  targetPort = 1337
-
-
-  [[plugins]]
-  package = "@netlify/plugin-nextjs"
-
 [context.production.environment]
   NODE_VERSION = "18"
   HOST = "0.0.0.0"
