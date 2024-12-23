@@ -1,5 +1,11 @@
 {
     "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/node"
+      }
+    ],
     "env": {
       "HOST": "0.0.0.0",
       "PORT": "1337",
