@@ -11,6 +11,7 @@
     "strapi": "strapi"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "github:opennextjs/opennextjs-netlify",
     "@strapi/plugin-cloud": "5.4.1",
     "@strapi/plugin-users-permissions": "5.4.1",
     "@strapi/strapi": "5.4.1",
