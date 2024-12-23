@@ -29,8 +29,5 @@
   },
   "strapi": {
     "uuid": "f2fd86f6-8d3b-4c1c-a13a-bc5dd549df78"
-  },
-  "devDependencies": {
-    "@netlify/plugin-nextjs": "^5.9.2"
   }
 }
