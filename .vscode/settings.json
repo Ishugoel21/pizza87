@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1bd4115c-1d80-48da-b36d-924e57e6c9a6/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/pizza98",
+    "appService.deploySubpath": "."
+}
